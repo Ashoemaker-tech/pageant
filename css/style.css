@@ -47,7 +47,7 @@ body {
 
   .hero-unit {
       height: 100vh;
-      background-color: rgba(0, 0, 0, 0.3);
+      background-color: rgba(111, 66, 193, 0.5);
   }
 
   .hero-heading {
@@ -94,6 +94,11 @@ body {
   }
   .featurette-heading span{
       font-size: 50px;
+  }
+
+  /* Photo page css */
+  .photo-container{
+    background-color: rgba(111, 66, 193, 0.5);
   }
  
   
