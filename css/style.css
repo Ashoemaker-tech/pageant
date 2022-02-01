@@ -97,6 +97,17 @@ body {
 .featurette-heading span {
   font-size: 50px;
 }
+/* Registration */
+#registration-btn {
+  background-color: #6f42c1;
+  border: 1px solid #6f42c1;
+}
+#registration-btn:hover{
+  background-color: #fff;
+  color: #6f42c1;
+  border: 1px solid #6f42c1;
+}
+
 
 /* Photo page css */
 .photo-container {
