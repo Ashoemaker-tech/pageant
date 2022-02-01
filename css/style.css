@@ -135,12 +135,21 @@ body {
   }
 }
 
-@media (max-width: 576px) {
+@media (max-width: 845px) {
   .nav-item {
-    font-size: 14px;
+    font-size: 10px;
   }
   .hero-heading {
-    font-size: 75px;
+    font-size: 65px;
+  }
+  .hero-text{
+    font-size: 18px;
+  }
+  .featurette-heading{
+    text-align: center;
+  }
+  .featurette p{
+    margin-left: 10px;
   }
   .marketing h1 {
     font-size: 75px;
